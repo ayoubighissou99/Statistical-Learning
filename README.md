@@ -1,2 +1,2 @@
-# Statistical-Learning
+# Statistical Learning
 R code
